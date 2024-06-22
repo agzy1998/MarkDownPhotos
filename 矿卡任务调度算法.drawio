@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T06:07:43.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.6.1" etag="1mPYZe4nl6fJfPqSkqwd" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-22T06:31:47.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Q5HCl3fNfI8kqR3gCoFY" version="24.6.1" type="github">
   <diagram name="第 1 页" id="qrbL29LjwJQfhf73JiEF">
-    <mxGraphModel>
+    <mxGraphModel dx="1002" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="j4imnVkP3T4xt2o0lgQL-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;订单&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#9673a6;gradientColor=none;fillStyle=zigzag-line;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
