@@ -1,11 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T06:31:47.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Q5HCl3fNfI8kqR3gCoFY" version="24.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-22T06:32:57.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="ae0kYze3dMKw0nDEa0Gp" version="24.6.1" type="github">
   <diagram name="第 1 页" id="qrbL29LjwJQfhf73JiEF">
     <mxGraphModel dx="1002" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="j4imnVkP3T4xt2o0lgQL-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;订单&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#9673a6;gradientColor=none;fillStyle=zigzag-line;" vertex="1" parent="1">
-          <mxGeometry x="100" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="j4imnVkP3T4xt2o0lgQL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j4imnVkP3T4xt2o0lgQL-1" target="j4imnVkP3T4xt2o0lgQL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j4imnVkP3T4xt2o0lgQL-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;订单&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j4imnVkP3T4xt2o0lgQL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j4imnVkP3T4xt2o0lgQL-2" target="j4imnVkP3T4xt2o0lgQL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j4imnVkP3T4xt2o0lgQL-2" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;工单&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j4imnVkP3T4xt2o0lgQL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j4imnVkP3T4xt2o0lgQL-4" target="j4imnVkP3T4xt2o0lgQL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j4imnVkP3T4xt2o0lgQL-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;车端路径规划路线&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j4imnVkP3T4xt2o0lgQL-6" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;车流&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
